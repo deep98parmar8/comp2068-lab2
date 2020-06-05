@@ -1,0 +1,2 @@
+C:\Users\17055\source\repos\Lab2_200390761_t\Lab2_200390761_t\obj\Debug\Lab2_200390761_t.njsproj.CoreCompileInputs.cache
+C:\Users\17055\source\repos\Lab2_200390761_t\Lab2_200390761_t\bin\Microsoft.NodejsTools.WebRole.dll
